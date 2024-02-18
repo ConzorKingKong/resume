@@ -10,7 +10,7 @@ html, body {
 
 body {
   font-family: "Avenir", "Libre Baskerville", serif;
-  font-size: 14px;
+  font-size: 13.2px;
   line-height: 1.85;
   margin: 0.25in;
   text-rendering: optimizeLegibility;
@@ -23,7 +23,7 @@ header {
   font-size: 2em;
   flex-direction: row;
   justify-content: space-between;
-  margin-bottom: 5px;
+  margin-bottom: 3px;
 }
 
 h2 {
@@ -55,4 +55,9 @@ h4 {
   text-align: center;
   font-size: 1.2em;
   font-weight: bold;
+}
+
+.projects {
+  margin-top: 0px;
+  margin-bottom: 3px;
 }
